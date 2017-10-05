@@ -18,8 +18,6 @@ Softwares, Languages and technologies :
 16. Adobe Photoshop CS6
 There are three different users that can log in to the system and their credentials are :
 zaid 1234 
-
 test test 
-
 root root
 
